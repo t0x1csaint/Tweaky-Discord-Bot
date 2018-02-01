@@ -2,7 +2,7 @@
   "name": "tweaky",
   "version": "1.0.0",
   "description": "A multi purpose bot that has a Great mix of Admin commands and User commands.",
-  "main": "index.js",
+  "main": "tweaky.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
